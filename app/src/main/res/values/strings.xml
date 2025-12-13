@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Komiscope</string>
+
+    <!-- Main Activity -->
+    <string name="open_cbz_file">Open CBZ File</string>
+    <string name="recent_files">Recent Files</string>
+    <string name="no_recent_files">No recent files.\nOpen a CBZ file to get started!</string>
+
+    <!-- Reader -->
+    <string name="loading">Loading...</string>
+    <string name="extracting_images">Extracting images...</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="page_format">%1$d / %2$d</string>
+
+    <!-- Errors -->
+    <string name="error_no_images">No images found in the file</string>
+    <string name="error_extraction_failed">Failed to extract CBZ file</string>
+    <string name="error_invalid_file">Please select a valid CBZ or ZIP file</string>
+
+    <!-- Dialogs -->
+    <string name="remove_from_recent">Remove from Recent</string>
+    <string name="remove_confirm">Remove \"%1$s\" from recent files?</string>
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+</resources>
