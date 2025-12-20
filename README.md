@@ -22,7 +22,7 @@ Aplikasi ini dikembangkan sebagai project Ujian Tengah Semester mata kuliah **Pe
 
 ##  Cara Menjalankan
 1. Jalankan aplikasi
-2. Pilih file komik berformat CBZ atau ZIP
+2. Pilih file komik berformat CBZ atau ZIP [File Tester Di sini](https://drive.google.com/drive/folders/1LIc2YdyU1ypDHZC2U-VfCKCqRHATa36X?usp=drive_link)
 3. Aplikasi akan menampilkan halaman komik secara berurutan
 4. Gunakan swipe untuk berpindah halaman dan pinch untuk zoom
 
